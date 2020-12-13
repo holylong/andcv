@@ -1,0 +1,6 @@
+[submodule "libandcv/src/main/cpp/opencv"]
+	path = libandcv/src/main/cpp/opencv
+	url = https://gitee.com/mirrors/opencv
+[submodule "libandcv/src/main/cpp/opencv_contrib"]
+	path = libandcv/src/main/cpp/opencv_contrib
+	url = https://gitee.com/mirrors/opencv
