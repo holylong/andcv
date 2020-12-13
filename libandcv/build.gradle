@@ -27,7 +27,7 @@ android {
                         "-DBUILD_PERF_TESTS=OFF",
                         "-DBUILD_TESTS=OFF",
                         "-DINSTALL_C_EXAMPLES=OFF",
-                        "-DOPENCV_EXTRA_MODULES_PATH=libandcv/src/main/cpp/opencv_contrib/modules",
+                        //"-DOPENCV_EXTRA_MODULES_PATH=libandcv/src/main/cpp/opencv_contrib/modules",
                         // 使用下面这种语法向变量传递多个参数（参数之间使用空格隔开）：
                         // arguments "-D变量名=参数1 参数2"
                         "-DANDROID_CPP_FEATURES=rtti exceptions"

@@ -4,3 +4,6 @@
 [submodule "libandcv/src/main/cpp/opencv_contrib"]
 	path = libandcv/src/main/cpp/opencv_contrib
 	url = https://gitee.com/mirrors/opencv
+[submodule "libandcv/src/main/cpp/ncnn"]
+	path = libandcv/src/main/cpp/ncnn
+	url = https://github.com/Tencent/ncnn
