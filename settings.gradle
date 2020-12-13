@@ -1,0 +1,3 @@
+include ':libandcv'
+include ':app'
+rootProject.name = "andcv"
