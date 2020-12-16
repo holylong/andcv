@@ -2,6 +2,16 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/Paddle-Lite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/Paddle-Lite/third-party/flatbuffers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/Paddle-Lite/third-party/gflags" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/Paddle-Lite/third-party/gflags/doc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/Paddle-Lite/third-party/googletest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/Paddle-Lite/third-party/protobuf-host" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/Paddle-Lite/third-party/protobuf-host/third_party/benchmark" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/Paddle-Lite/third-party/protobuf-mobile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/Paddle-Lite/third-party/protobuf-mobile/third_party/benchmark" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/mediapipe" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/ncnn" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/opencv" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/opencv_contrib" vcs="Git" />

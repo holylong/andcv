@@ -7,3 +7,9 @@
 [submodule "libandcv/src/main/cpp/ncnn"]
 	path = libandcv/src/main/cpp/ncnn
 	url = https://github.com/Tencent/ncnn
+[submodule "libandcv/src/main/cpp/Paddle-Lite"]
+	path = libandcv/src/main/cpp/Paddle-Lite
+	url = https://github.com/PaddlePaddle/Paddle-Lite
+[submodule "libandcv/src/main/cpp/mediapipe"]
+	path = libandcv/src/main/cpp/mediapipe
+	url = https://github.com/google/mediapipe
