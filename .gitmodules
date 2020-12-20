@@ -13,3 +13,6 @@
 [submodule "libandcv/src/main/cpp/mediapipe"]
 	path = libandcv/src/main/cpp/mediapipe
 	url = https://github.com/google/mediapipe
+[submodule "libandcv/src/main/cpp/SDL"]
+	path = libandcv/src/main/cpp/SDL
+	url = https://github.com/SDL-mirror/SDL
