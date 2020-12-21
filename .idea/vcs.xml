@@ -11,6 +11,7 @@
     <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/Paddle-Lite/third-party/protobuf-host/third_party/benchmark" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/Paddle-Lite/third-party/protobuf-mobile" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/Paddle-Lite/third-party/protobuf-mobile/third_party/benchmark" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/SDL" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/mediapipe" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/ncnn" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/libandcv/src/main/cpp/opencv" vcs="Git" />
